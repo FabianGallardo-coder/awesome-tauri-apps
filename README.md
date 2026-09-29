@@ -104,6 +104,7 @@ Tauri lets you build small, fast and secure apps with a web frontend and a Rust 
 ## Science & Data
 
 - [Annimate](https://github.com/matthias-stemmler/annimate) - Convenient export of query results from the ANNIS system for linguistic corpora.
+- [dcmage](https://dcmage.com) - DICOM tag editor, anonymizer and 3D viewer for macOS and the browser that processes studies locally. Closed-source.
 - [GeoLibre](https://github.com/opengeos/GeoLibre) - Lightweight, cloud-native GIS platform to visualize, explore and analyze geospatial data.
 
 ## Utilities
