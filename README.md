@@ -17,6 +17,7 @@ Tauri lets you build small, fast and secure apps with a web frontend and a Rust 
 - [Media & Recording](#media--recording)
 - [Games & Launchers](#games--launchers)
 - [Finance](#finance)
+- [Science & Data](#science--data)
 - [Utilities](#utilities)
 - [Contributing](#contributing)
 
@@ -39,7 +40,8 @@ Tauri lets you build small, fast and secure apps with a web frontend and a Rust 
 ### AI Coding
 
 - [Bloop](https://github.com/BloopAI/bloop) - AI-powered code search and Q&A over your codebase (archived).
-- [CC Switch](https://github.com/farion1231/cc-switch) - Desktop tool to manage and switch providers and configs for Claude Code and similar AI coding CLIs.
+- [CC Switch](https://github.com/farion1231/cc-switch) - Desktop tool to manage and switch providers and configs for Claude Code, Codex and similar AI coding CLIs.
+- [CodexMonitor](https://github.com/Dimillian/CodexMonitor) - Desktop app to monitor and manage Codex sessions, for macOS and Linux.
 - [Opcode](https://github.com/winfunc/opcode) - GUI for Claude Code to manage sessions, agents and projects (formerly Claudia).
 
 ### Assistants & Context
@@ -55,6 +57,7 @@ Tauri lets you build small, fast and secure apps with a web frontend and a Rust 
 - [MarkFlowy](https://github.com/drl990114/MarkFlowy) - Modern Markdown editor with a WYSIWYG mode.
 - [mdSilo](https://github.com/mdSilo/mdSilo-app) - Lightweight Markdown knowledge base with bidirectional links.
 - [NoteGen](https://github.com/codexu/note-gen) - Markdown notes with AI-assisted capture and sync.
+- [Project Graph](https://github.com/graphif/project-graph) - Node-based visual tool for organizing thoughts and notes in a non-linear way.
 
 ## Developer Tools
 
@@ -62,8 +65,8 @@ Tauri lets you build small, fast and secure apps with a web frontend and a Rust 
 - [GitButler](https://github.com/gitbutlerapp/gitbutler) - Git client with virtual branches and a modern workflow.
 - [Hopp](https://github.com/gethopp/hopp) - Open-source remote pair programming app.
 - [Hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-source API development ecosystem (desktop app built with Tauri). (Commercial)
-- [Yaak](https://github.com/mountain-loop/yaak) - Fast, offline-friendly API client for REST, GraphQL, gRPC and more. (Commercial)
 - [kftray](https://github.com/hcavarsan/kftray) - Manage Kubernetes port-forwards from the system tray.
+- [Yaak](https://github.com/mountain-loop/yaak) - Fast, offline-friendly API client for REST, GraphQL, gRPC and more. (Commercial)
 
 ## Productivity
 
@@ -79,8 +82,8 @@ Tauri lets you build small, fast and secure apps with a web frontend and a Rust 
 
 - [Clash Nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Another Clash GUI based on Tauri.
 - [Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev) - Continuation of Clash Verge, a proxy client built on the Mihomo core.
-- [Padloc](https://github.com/padloc/padloc) - Open-source password manager for individuals and teams.
 - [Nym Wallet](https://github.com/nymtech/nym) - Desktop wallet for the Nym mixnet.
+- [Padloc](https://github.com/padloc/padloc) - Open-source password manager for individuals and teams.
 
 ## Media & Recording
 
@@ -95,7 +98,11 @@ Tauri lets you build small, fast and secure apps with a web frontend and a Rust 
 
 ## Finance
 
-- [Wealthfolio](https://github.com/afadil/wealthfolio) - Private, local-first investment tracker.
+- [Wealthfolio](https://github.com/wealthfolio/wealthfolio) - Private, local-first investment tracker.
+
+## Science & Data
+
+- [GeoLibre](https://github.com/opengeos/GeoLibre) - Lightweight, cloud-native GIS platform to visualize, explore and analyze geospatial data.
 
 ## Utilities
 
@@ -103,6 +110,7 @@ Tauri lets you build small, fast and secure apps with a web frontend and a Rust 
 - [EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - Cross-platform clipboard manager.
 - [NeoHtop](https://github.com/Abdenasser/neohtop) - Modern, cross-platform system monitor in the spirit of htop.
 - [Pake](https://github.com/tw93/Pake) - Turn any web page into a lightweight desktop app with one command.
+- [Seelen UI](https://github.com/eythaann/Seelen-UI) - Fully customizable desktop environment for Windows 10/11 with dock, toolbar and launcher.
 
 ## Contributing
 
@@ -123,7 +131,7 @@ Contributions are welcome! To add an app:
    - [Commercial App](https://link) - Short description. (Commercial)
    ```
 
-6. Open a pull request with a clear title (e.g. `Add App Name`).
+6. Open a pull request titled `Add App Name (Category)`, e.g. `Add Handy (Speech & Transcription)`.
 
 Open-source and closed-source apps are both accepted. Mention it in the description if the app is closed-source.
 
