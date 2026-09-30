@@ -73,6 +73,7 @@ Tauri lets you build small, fast and secure apps with a web frontend and a Rust 
 
 - [Kunkun](https://github.com/kunkunsh/kunkun) - Extensible cross-platform launcher with a plugin system.
 - [Readest](https://github.com/readest/readest) - Modern, feature-rich ebook reader focused on immersive reading. (Commercial)
+- [Zmina](https://zmina.app) - Clipboard manager that suggests actions based on the app you're pasting into, for macOS. Closed-source. (Commercial)
 
 ## Communication
 
