@@ -74,6 +74,7 @@ Tauri lets you build small, fast and secure apps with a web frontend and a Rust 
 - [Kunkun](https://github.com/kunkunsh/kunkun) - Extensible cross-platform launcher with a plugin system.
 - [Readest](https://github.com/readest/readest) - Modern, feature-rich ebook reader focused on immersive reading. (Commercial)
 - [Team Times Viewer](https://kmuncie.com/team-times) - Shows which teammates are working right now, based on their schedules and time zones. Syncs across Mac, iPhone and iPad with iCloud. Closed-source. (Paid)
+- [Zmina](https://zmina.app) - Clipboard manager that suggests actions based on the app you're pasting into, for macOS. Closed-source. (Commercial)
 
 ## Communication
 
@@ -105,6 +106,7 @@ Tauri lets you build small, fast and secure apps with a web frontend and a Rust 
 ## Science & Data
 
 - [Annimate](https://github.com/matthias-stemmler/annimate) - Convenient export of query results from the ANNIS system for linguistic corpora.
+- [dcmage](https://dcmage.com) - DICOM tag editor, anonymizer and 3D viewer for macOS and the browser that processes studies locally. Closed-source.
 - [GeoLibre](https://github.com/opengeos/GeoLibre) - Lightweight, cloud-native GIS platform to visualize, explore and analyze geospatial data.
 
 ## Utilities
